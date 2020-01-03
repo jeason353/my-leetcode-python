@@ -36,3 +36,5 @@ LeetCode with Python
 [22. Generate Parentheses](http://github.com/jeason353/my-leetcode-python/blob/master/22.Generate_Parentheses.py) Medium
 
 [23. Merge k Sorted Lists](http://github.com/jeason353/my-leetcode-python/blob/master/23.Merge_k_sorted_lists.py) Hard
+
+[24. Swap Nodes in Pairs](http://github.com/jeason353/my-leetcode-python/blob/master/24.Swap_nodes_in_pairs.py)
