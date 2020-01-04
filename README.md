@@ -37,4 +37,15 @@ LeetCode with Python
 
 [23. Merge k Sorted Lists](http://github.com/jeason353/my-leetcode-python/blob/master/23.Merge_k_sorted_lists.py) Hard
 
-[24. Swap Nodes in Pairs](http://github.com/jeason353/my-leetcode-python/blob/master/24.Swap_nodes_in_pairs.py)
+[24. Swap Nodes in Pairs](http://github.com/jeason353/my-leetcode-python/blob/master/24.Swap_nodes_in_pairs.py) Medium
+
+[25. Reverse Nodes in k-Group](http://github.com/jeason353/my-leetcode-python/blob/master/25.Reverse_nodes_in_k-Group.py) Hard
+
+[26. Reverse Duplicates from Sorted Array](http://github.com/jeason353/my-leetcode-python/blob/master/26.Remove_duplicates_from_sorted_array.py) Easy
+
+[27. Remove Element](http://github.com/jeason353/my-leetcode-python/blob/master/27.Remove_element.py) Easy
+
+[28. Implement strStr()](http://github.com/jeason353/my-leetcode-python/blob/master/28.Implement_strStr.py) Easy
+
+[29. Devide Two Integers](http://github.com/jeason353/my-leetcode-python/blob/master/29.Devide_two_Integers.py) Medium
+
