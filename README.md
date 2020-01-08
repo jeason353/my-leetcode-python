@@ -49,3 +49,6 @@ LeetCode with Python
 
 [29. Devide Two Integers](http://github.com/jeason353/my-leetcode-python/blob/master/29.Devide_two_Integers.py) Medium
 
+[30. Substring with Concatenation of All Words](http://github.com/jeason353/my-leetcode-python/blob/master/30.Substring_with_concatenation_of_all_words.py) Hard
+
+[31. Next Permutation](http://github.com/jeason353/my-leetcode-python/blob/master/31.Next_permutation.py) Medium
